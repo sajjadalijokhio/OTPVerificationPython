@@ -2,6 +2,10 @@
 
 This is a simple Python script for generating and verifying OTPs (One-Time Passwords) via email using the SMTP protocol. It can be used in various applications where email-based OTPs are required for authentication.
 
+## Acknowledgments
+This project was created as an educational example, during my internship at SYNC INTERN'S, to build a simple Email OTP Verification application.
+Enjoy using the Email OTP Verification System!
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -28,7 +32,3 @@ Before you begin, ensure you have met the following requirements:
 2. The script will generate a 6-digit OTP and send it to the specified email address.
 3. Check the receiver's email for the OTP and enter it when prompted.
 4. The script will verify the OTP. If it's correct, it will print "OTP Verified!"; otherwise, it will display "Sorry! Please Enter a Valid OTP."
-
-## Acknowledgments
-This project was created as an educational example to build a simple Email OTP Verification application.
-Enjoy using the Email OTP Verification System!
